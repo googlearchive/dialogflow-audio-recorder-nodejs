@@ -1,0 +1,89 @@
+/* Copyright 2019, Google, Inc.
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+*/
+
+* {
+  box-sizing: border-box;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -200px;
+  margin-left: -200px;
+  width: 400px;
+  height: 400px;
+  outline: none;
+}
+
+.centered-text {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -400px;
+  margin-left: -200px;
+  width: 400px;
+  height: 400px;
+  vertical-align: text-top;
+  text-align: center;
+  font-size: 400%;
+  line-height: 50px;
+  z-index: -1;
+}
+
+.centered-canvas {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -500px;
+  margin-left: -200px;
+  width: 400px;
+  height: 400px;
+  vertical-align: text-top;
+  text-align: center;
+  z-index: -1;
+}
+
+.centered-auth {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: 250px;
+  margin-left: -200px;
+  width: 400px;
+  height: 200px;
+  vertical-align: text-top;
+  text-align: center;
+  z-index: 10;
+}
+
+#start_button {
+  border: 0;
+  background-color:transparent;
+  padding: 0;
+}
+
+@media only screen and (max-width: 600px) {
+  .centered {
+    margin-top: -100px;
+    margin-left: -100px;
+    width: 200px;
+    height: 200px;
+  }
+}
