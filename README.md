@@ -1,6 +1,6 @@
 # Actions on Google: Audio Recorder Demo
 
-This is a simple Assistant app, built using Dialogflow, to playback an audio recording. The recording is made using a simple web app.
+This is a simple Assistant Action, built using Dialogflow, to playback an audio recording. The recording is made using a simple web app.
 
 ## Setup Instructions
 
@@ -60,7 +60,7 @@ For more detailed information on deployment, see the [documentation](https://dev
 Please read and follow the steps in the CONTRIBUTING.md
 
 ## License
-See LICENSE.md
+See LICENSE
 
 ## Terms
 Your use of this sample is subject to, and by using or downloading the sample files you agree to comply with, the [Google APIs Terms of Service](https://developers.google.com/terms/).

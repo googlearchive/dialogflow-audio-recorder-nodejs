@@ -123,7 +123,7 @@ const startRecording = () => {
     });
 
     webAudioRecorder.setOptions({
-      timeLimit: 240, // max number of seconds for recording
+      timeLimit: 180, // max number of seconds for recording
       encodeAfterRecord: true, // encode the audio data after recording
       ogg: {
         bitRate: 160 // 160 Hz bitrate
