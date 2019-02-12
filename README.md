@@ -22,7 +22,7 @@ Copy the following files from [WebAudioRecorder.js](https://github.com/higuma/we
 ### Steps
 1. Click on the **Add to Dialogflow** button below and follow the prompts to create a new project:
 
-[![Webhook Boilerplate](https://storage.googleapis.com/dialogflow-oneclick/deploy.svg "Webhook Boilerplate")](https://console.dialogflow.com/api-client/#/oneclick?templateUrl=https://github.com/actions-on-google/dialogflow-audio-recorder-nodejs/blob/master/dialogflow-agent.zip?raw=true&agentName=AudioDemo)
+[![Webhook Boilerplate](https://storage.googleapis.com/dialogflow-oneclick/deploy.svg "Webhook Boilerplate")](https://console.dialogflow.com/api-client/#/oneclick?templateUrl=https://storage.googleapis.com/dialogflow-oneclick/dialogflow-agent-audio-recorder.zip&agentName=AudioDemo)
 
 1. Click on the gear icon to see the `Project ID` in the settings.
 1. Go to the [Firebase console](https://console.firebase.google.com) and select the project that was created.
