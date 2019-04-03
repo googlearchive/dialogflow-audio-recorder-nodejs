@@ -47,23 +47,19 @@ Copy the following files from [WebAudioRecorder.js](https://github.com/higuma/we
 
 For more detailed information on deployment, see the [documentation](https://developers.google.com/actions/dialogflow/deploy-fulfillment).
 
-### References & Issues
-+ Questions? Go to [StackOverflow](https://stackoverflow.com/questions/tagged/actions-on-google), [Public Issue Tracker](https://issuetracker.google.com) or [Support](https://developers.google.com/actions/support/).
-+ For bugs, please report an issue on [Github](https://github.com/dialogflow/dialogflow-fulfillment-nodejs/issues).
-+ Actions on Google [Webhook Template](https://github.com/actions-on-google/dialogflow-webhook-template-nodejs).
-+ [Codelabs](https://codelabs.developers.google.com/?cat=Assistant) for Actions on Google.
-+ Actions on Google [Documentation](https://developers.google.com/actions/extending-the-assistant).
-+ For more info on deploying with [Firebase](https://developers.google.com/actions/dialogflow/deploy-fulfillment).
-+ Actions on Google [NPM module](https://github.com/actions-on-google/actions-on-google-nodejs).
-
+## References & Issues
++ Questions? Go to [StackOverflow](https://stackoverflow.com/questions/tagged/actions-on-google), [Assistant Developer Community on Reddit](https://www.reddit.com/r/GoogleAssistantDev/) or [Support](https://developers.google.com/actions/support/).
++ For bugs, please report an issue on Github.
++ Actions on Google [Documentation](https://developers.google.com/actions/extending-the-assistant)
++ Actions on Google [Codelabs](https://codelabs.developers.google.com/?cat=Assistant).
++ [Webhook Boilerplate Template](https://github.com/actions-on-google/dialogflow-webhook-boilerplate-nodejs) for Actions on Google.
+ 
 ## Make Contributions
-Please read and follow the steps in the CONTRIBUTING.md
-
+Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md).
+ 
 ## License
-See LICENSE
-
+See [LICENSE](LICENSE).
+ 
 ## Terms
 Your use of this sample is subject to, and by using or downloading the sample files you agree to comply with, the [Google APIs Terms of Service](https://developers.google.com/terms/).
 
-## Google+
-Actions on Google Developers Community on Google+ [https://g.co/actionsdev](https://g.co/actionsdev).
