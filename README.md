@@ -1,3 +1,7 @@
+# Project Status
+
+This sample is no longer maintained. It's here for archive purposes only.
+
 # Actions on Google: Audio Recorder Demo
 
 This is a simple Assistant Action, built using Dialogflow, to playback an audio recording. The recording is made using a simple web app.
